@@ -1,5 +1,7 @@
-- JAMF-CE-InstallAdministrativeTools
- Jamf Script which installs administrative tools.
+# JAMF-CE-InstallAdministrativeTools
+
+Jamf Script which installs administrative tools.
+
 - Author: Andrew W. Johnson
 - Date: Sometime in 2020
 - Version: 1.00
