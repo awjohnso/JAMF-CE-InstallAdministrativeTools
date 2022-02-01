@@ -15,4 +15,4 @@ This script is used in the initial setup of a computer when it joins Jamf throug
 
 ### Future
 
-Update to use either trigger or custom event keyword/trigger.
+Update to use either Policy ID **or** custom event keyword/trigger.

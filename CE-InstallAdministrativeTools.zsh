@@ -13,7 +13,7 @@
 # Apple School Manager (ASM) or a fresh reinstall of the OS. Add remove as many triggers 
 # as desired.
 #
-# Future: update to use either trigger or custom event keyword/trigger.
+# Future: Update to use either Policy ID or custom event keyword/trigger.
 
 	# Setup an array with the triggers.
 myTriggers=(
